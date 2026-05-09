@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: notes-new
+  annotations:
+    github.com/project-slug: poojitha-Nallipogu/notes-new
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/rohitratannagar
